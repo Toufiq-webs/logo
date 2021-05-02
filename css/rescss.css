@@ -1,0 +1,165 @@
+@media (max-width: 1199px){
+	.workers{
+		width: 200px;
+		height: 230px;
+	}
+
+	.con-map-img img{
+	width: 380px;
+	height: 380px;
+	}
+	.cont-info-form{
+	width: 535px;
+	height: 445px;
+	}
+	.cont-msg{
+	width: 100%;
+	height: 258px;
+	}
+}
+
+
+@media (max-width: 991px){
+	.head-menu ul li{
+	margin: 0 20px;
+	}
+	.header-area{
+	width: 100%;
+	height: 700px;
+	}
+	.head-slider{
+		width: 100%;
+		height: 550px;
+	}
+	.headb-headline{
+		padding-top: 100px;
+	}
+
+	.workers{
+		width: 150px;
+		height: 230px;
+	}
+
+	.cont-info-text{
+		padding-bottom: 10px;
+	}
+	.con-map-img img{
+	width: 280px;
+	height: 280px;
+	}
+	.cont-info-form{
+	width: 435px;
+	height: 305px;
+	}
+	.cont-msg{
+	width: 100%;
+	height:158px;
+	}
+
+	.cont-email .content-email input{
+		height: 55px;
+	}
+	.contact-send button{
+		height: 55px;
+	}
+}
+@media (max-width: 767px){
+	.worker-area{
+		width: 100%;
+		height: 900px;
+	}
+
+	.worker-doc{
+		display: block;
+		width: 100%;
+		height: 500px;
+	}
+	.work-docs{
+		display: flex;
+	}
+
+	.workers{
+		width: 250px;
+		height: 230px;
+		margin: 20px;
+	}
+	.con-map-img{
+		width: 300px;
+		height: 300px;
+	}
+	.content-map{
+		margin-bottom: 40px;
+	}
+	.con-map-text{
+		padding-bottom: 0px;
+	}
+	.contact-info{
+		width: 90%;
+	}
+	.cont-msg textarea{
+		width: 90%;
+	}
+	.cont-email .content-email input{
+		width: 90%;
+	}
+	.contact-send button{
+		width: 90%;
+	}
+	.cont-info-text{
+		padding-bottom: 0px;
+	}
+	.cont-info-form{
+	width: 335px;
+	height: 405px;
+	}
+	.cont-msg{
+	width: 100%;
+	height:158px;
+	}
+
+	.cont-email .content-email input{
+		height: 55px;
+	}
+	.contact-send button{
+		height: 55px;
+	}
+	.contact-send{
+		margin-top: 0px;
+	}
+
+
+	.footer-since{
+	display: flex;
+	justify-content:center;
+	}
+}
+@media (max-width: 575px){
+	.head-menu{
+	display: none;
+	}
+
+	.header-menu-icon{
+	display: flex;
+	}
+
+
+	.footer-address{
+		text-align: center;
+		padding-bottom: 10px;
+	}
+}
+@media (max-width: 460px){
+	.worker-area{
+		width: 100%;
+		height: 950px;
+	}
+
+	.cont-info-form{
+	width: 305px;
+	height: 405px;
+	}
+
+
+
+}
+@media (max-width: 360px){}
